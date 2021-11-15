@@ -41,7 +41,8 @@ La ultima versión de MYSQL y MYSQL Workbench <-- (Opcional)
 _Añadir la base de datos_
 
 ```
-Tendras que insertar una vez descargado el proyecto en el directorio bd encontraras todos los inserts que tendrás que meter en el sql copiar el texto, pegar y ejectutar el contenido del fichero
+Tendras que insertar una vez descargado el proyecto en el directorio bd encontraras todos los inserts que tendrás que 
+meter en el sql copiar el texto, pegar y ejectutar el contenido del fichero
 El orden es el siguiente:
 bd_restaurante.sql
 bd_restaurante_tbl_camareros.sql
