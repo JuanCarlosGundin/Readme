@@ -67,7 +67,22 @@ Introduce todo el directorio completo dentro de hdocs en Xampp y podras acceder 
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+Entramos en 000Webhost (https://es.000webhost.com) y creamos una cuenta
+a continuación agregaremos un nuevo proyecto,
+en el editor de ficheros dentro de public html pegaremos todos los directorios de nuestro proyecto.
+
+Ahora procederemos a añadir la base de datos creando una base de datos en 000webhost en Tools y Database manager, dentro crearemos la base de datos con nombre bd_restaurante
+Tendras que insertar una vez descargado el proyecto en el directorio bd encontraras todos los inserts que tendrás que 
+meter en el phpMyadmin copiar el texto, pegar y ejectutar el contenido del fichero
+El orden es el siguiente:
+
+bd_restaurante_tbl_camareros.sql
+bd_restaurante_tbl_lugar.sql
+bd_restaurante_tbl_mesa.sql
+bd_restaurante_tbl_fecha.sql
+
+Una vez tengamos esto y configuremos el fichero config.php ya podremos empezar.
+
 
 ## Construido con 🛠️
 
